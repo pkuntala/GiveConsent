@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    -webkit-text-fill-color: brown;
+    max-width: 500px;
+    padding-left: 50px;
+    align-items: top;
+    display: flex;
+    flex-direction: column;
+}
+
+.enter-name-field {
+    -webkit-text-fill-color: beige;
+    height: 60px;
+}
+
+.text-field {
+    height: 30px;
+    width: 200px;
+}
+
+.checkbox-section {
+    -webkit-text-fill-color: blanchedalmond;
+    display: inline;
+}
+
+.consent-text {
+    height: 20px;
+}
